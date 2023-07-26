@@ -1,0 +1,6 @@
+[submodule "mlcommons"]
+	path = mlcommons
+	url = https://github.com/dkphd/mlcommons
+[submodule "gems"]
+	path = gems
+	url = https://github.com/damiankucharski/gems
